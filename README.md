@@ -3,9 +3,9 @@ Exercises of the course *Laboratory of Computational Physics Mod. B*, A.Y 2023/2
 
 Contributors (Team 2413):
 - Maryam Gholami Shiri ([@GholamiMaryam](https://github.com/GholamiMaryam))
-- Muhammad Usama Qasim (([@osqasim](https://github.com/osqasim)))
-- Laura Schulze (([@lm-schulze](https://github.com/lm-schulze)))
-- Savina Tsichli (([@savinats](https://github.com/savinats)))
+- Muhammad Usama Qasim ([@osqasim](https://github.com/osqasim))
+- Laura Schulze ([@lm-schulze](https://github.com/lm-schulze))
+- Savina Tsichli ([@savinats](https://github.com/savinats))
 
 Exercises:
 - **Exercise 1: Convolutional Neural Networks**. Training a CNN on the given sample data, fine-tuning parameters and exploring different optimizers (Adam, RMSprop, Nesterov)
